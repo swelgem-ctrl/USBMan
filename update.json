@@ -1,0 +1,16 @@
+{
+  "app": "USBMan Pro",
+  "version": "0.9.7",
+  "channel": "stable",
+  "release_date": "2026-09-30",
+  "download_url": "https://github.com/swelgem-ctrl/USBMan/releases/download/v0.9.7/USBMan_Pro_v0.9.7.zip",
+  "release_url": "https://github.com/swelgem-ctrl/USBMan/releases/tag/v0.9.7",
+  "sha256": "",
+  "minimum_windows": "10",
+  "notes": [
+    "Native USB device metadata and caching",
+    "Per-device eject status and safer blocker handling",
+    "Single-instance mode and portable Start with Windows",
+    "JSON update manifest and portable update download"
+  ]
+}
